@@ -5,8 +5,8 @@
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Minhas séries favoritas",
+        "url": "https://www.netflix.com/br/"
       },
       "videos": [
         {
@@ -14,7 +14,7 @@
           "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
         },
         {
-          "titulo": "Anne with an E",
+          "titulo": "Anne With an E",
           "url": "https://www.youtube.com/watch?v=bBervTlBurY"
         },
         {
@@ -22,24 +22,28 @@
           "url": "https://www.youtube.com/watch?v=hkizwJUiVjA"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Queer Eye",
+          "url": "https://www.youtube.com/watch?v=GZMrivD2Aok"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "This Is Us",
+          "url": "https://www.youtube.com/watch?v=OkTEQwsE8l4"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Little Fires Everywhere",
+          "url": "https://www.youtube.com/watch?v=JWGkX8ClhBI"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Downton Abbey",
+          "url": "https://www.youtube.com/watch?v=XdY4gpO0Cqk"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Fleabag",
+          "url": "https://www.youtube.com/watch?v=FhZHv2id6Sk"
+        },
+        {
+          "titulo": "Killing Eve",
+          "url": "https://www.youtube.com/watch?v=p4bj9m5WJuk"
         }        
       ]
     },
