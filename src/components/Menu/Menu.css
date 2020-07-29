@@ -23,7 +23,7 @@
     padding-left: 5%;
     padding-right: 5%;
   
-    background: var(--black);
+    background: var(--background);
     border-bottom: 2px solid var(--primary);
   }
   body {

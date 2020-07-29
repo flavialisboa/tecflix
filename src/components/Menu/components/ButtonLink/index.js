@@ -1,7 +1,7 @@
 import React from 'react';
 
 function ButtonLink(props) {
-    // props => { className: "o que alguém passar", href: "/" }
+    // props => { className: "o que passar", href: "/" }
     console.log(props);
     return (
         <a href={props.href} className={props.className}>
